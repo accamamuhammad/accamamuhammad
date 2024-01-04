@@ -1,10 +1,10 @@
-### Hi there 👋
-
-### Hi there 👋, Accama Muhammad
+### Hi there 👋,I'M Accama Muhammad
 #### Web Developer & Designer
 ![Web Developer & Designer](https://pbs.twimg.com/profile_banners/1503883121632190464/1704384286/1500x500)
 
 "Based in the vibrant capital of Nigeria, Abuja, I am driven by the ambition to excel as a web developer and designer. My goal is not only to create impactful and innovative web solutions but also to secure a position among Nigeria's top-ranked web designers and developers, contributing to the dynamic landscape of digital creativity in the country."
+
+![Accama Muhammad](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 Skills: HTML/CSS/JS
 
@@ -20,4 +20,4 @@ Skills: HTML/CSS/JS
 
 
 
-![Accama Muhammad](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
