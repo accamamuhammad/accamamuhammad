@@ -6,7 +6,7 @@
 
 ![Accama Muhammad](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
-Skills: HTML/CSS/JS
+Skills: HTML/CSS/JS/REACT/TAILWIND
 
 - 🔭 I’m currently working on Building more projects 
 - 🌱 I’m currently learning frameworks 
