@@ -1,23 +1,33 @@
-### Hi there 👋,I'M Accama Muhammad
-#### Web Developer & Designer
-![Web Developer & Designer](https://pbs.twimg.com/profile_banners/1503883121632190464/1704384286/1500x500)
+<h1 align="center">Hi 👋, I'm accama muahammad hussaini</h1>
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-"Based in the vibrant capital of Nigeria, Abuja, I am driven by the ambition to excel as a web developer and designer. My goal is not only to create impactful and innovative web solutions but also to secure a position among Nigeria's top-ranked web designers and developers, contributing to the dynamic landscape of digital creativity in the country."
+- 🔭 I’m currently working on **Student Productivity application**
 
-![Accama Muhammad](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+- 🌱 I’m currently learning **nextJS, prisma & MongoDB**
 
-Skills: HTML/CSS/JS/REACT/TAILWIND
+- 👨‍💻 All of my projects are available at [https://github.com/accamamuhammad](https://github.com/accamamuhammad)
 
-- 🔭 I’m currently working on Building more projects 
-- 🌱 I’m currently learning frameworks 
-- 👯 I’m looking to collaborate on Web Desing 
-- 💬 Ask me about Anything 
+- 💬 Ask me about **react, nextJs**
 
+- 📫 How to reach me **accamamuhammad@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/accamamuhammad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-accama/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/accamamuhammad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](accamamuhammad.com.ng)  
+- 📄 Know about my experiences [https://github.com/accamamuhammad](https://github.com/accamamuhammad)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=accamamuhammad)](https://github.com/ryo-ma/github-profile-trophy)
+- ⚡ Fun fact **i can run faster than my shadow**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/accama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="accama" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/accamamuhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="accamamuhammad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/accama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="accama" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/accama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="accama" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=accamamuhammad&show_icons=true&locale=en&layout=compact" alt="accamamuhammad" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=accamamuhammad&show_icons=true&locale=en" alt="accamamuhammad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=accamamuhammad&" alt="accamamuhammad" /></p>
