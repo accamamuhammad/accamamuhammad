@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm accama muahammad hussaini</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **Student Productivity application**
+- 🔭 Just finished working on my **Portfoilio** go check it out
 
 - 🌱 I’m currently learning **nextJS, prisma & MongoDB**
 
