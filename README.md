@@ -1,4 +1,4 @@
-![Landscape Image]([https://example.com/landscape-image.jpg](https://unsplash.com/photos/white-concrete-building-QdAAasrZhdk))
+![Landscape Image]([https://unsplash.com/photos/white-concrete-building-QdAAasrZhdk))
 
 <h1 align="center">Hi 👋, I'm accama muahammad hussaini</h1>
 <h3 align="center">A web developer based in Abuja, Nigeria</h3>
