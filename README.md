@@ -1,5 +1,3 @@
-![Landscape Image]([https://unsplash.com/photos/white-concrete-building-QdAAasrZhdk))
-
 <h1 align="center">accama muahammad hussaini</h1>
 <h3 align="center">A web developer based in Abuja, Nigeria</h3>
 
