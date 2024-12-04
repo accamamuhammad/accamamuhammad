@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm accama muahammad hussaini</h1>
 <h3 align="center">A web developer based in Abuja, Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=accamamuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="accamamuhammad" /> </p>
-
 - 🔭 I’m currently working on **SaaS application designed to simplify data visualization by presenting information in an intuitive and visually appealing way**
 
 - 🌱 I’m currently learning **nextJS, chart.js & firebase**
