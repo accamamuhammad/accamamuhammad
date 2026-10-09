@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1020,50:1f3a5f,100:3b82f6&text=Accama%20Muhammad%20Hussaini&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Web%20developer%20climbing%20toward%20backend%20%26%20AI&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
+<img width="100%" src="assets/header.svg" alt="header" />
 
 <a href="https://github.com/accamamuhammad">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=Cleared+for+takeoff+%E2%9C%88%EF%B8%8F;Full-stack+by+experience.+Python+by+focus.;Backend+and+AI+are+the+destination.;Learning+in+public%2C+one+commit+at+a+time." alt="Typing SVG" />
